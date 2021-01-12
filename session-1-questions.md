@@ -6,3 +6,4 @@ i have decided it to learn for my futher research purpose. to store the data my 
 2. How do you plan to use GitHub in your classroom?
 
 I will be sharing code which is required to students using GitHub classroom and assignments also.
+3. What are ways that GitHub might help you and your students manage code?"
